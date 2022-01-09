@@ -2,6 +2,24 @@
 @tailwind components;
 @tailwind utilities;
 
+divider {
+  display: flex;
+  flex-direction: row;
+}
+divider:before, divider:after{
+  content: "";
+  flex: 1 1;
+  border-bottom: 1px solid;
+  border-color: #14213d;
+  margin: auto;
+}
+divider:before {
+
+}
+divider:after {
+
+}
+
 p {
   margin: 15px 0;
   line-height: 1.8;
