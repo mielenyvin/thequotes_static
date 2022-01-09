@@ -21,18 +21,18 @@ export default function Search() {
   }, [searchTerm])
 
   return (
-    <div className='relative bg-gray-600 p-4'>
-      <div className='container mx-auto flex items-center justify-center md:justify-end'>
-        <div className='relative text-gray-600 w-72'>
+    <div className='relative h-20  bg-gray-300 p-4'>
+      <div className='container mx-auto  flex items-center justify-center md:justify-end'>
+        <div className='relative text-gray-600 w-72 hidden '>
           <form>
             <input
               type='search'
               name='search'
               id='search'
-              className='bg-white h-10 px-5 pr-10 rounded-full text-sm focus:outline-none w-72'
+              className='bg-white  h-10 px-5 pr-10 rounded-full text-sm focus:outline-none w-72'
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}
-              placeholder='Search Posts...'
+              placeholder='Search News...'
             />
 
             <FaSearch className='absolute top-0 right-0 text-black mt-3 mr-4' />

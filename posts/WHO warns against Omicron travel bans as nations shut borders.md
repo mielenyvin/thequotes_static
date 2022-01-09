@@ -1,11 +1,14 @@
 ---
-title: 'Tailwind vs. Bootstrap'
-date: 'May 5, 2021'
-excerpt: 'Both Tailwind and Bootstrap are very popular CSS frameworks. In this article, we will compare them'
-cover_image: '/images/posts/img2.jpg'
-category: 'CSS'
-author: 'Jane Doe'
-author_image: 'https://randomuser.me/api/portraits/women/11.jpg'
+title: 'WHO warns against Omicron travel bans as nations shut borders'
+title2: 'Omicron: Which countries have closed their borders?'
+source1: 'France24'
+source2: 'Deutsche Welle'
+date: 'December 29, 2021'
+excerpt: 'The World Health Organization has warned blanket travel bans will not prevent the spread of Omicron, as more countries rushed to impose curbs and the first cases of the new Covid strain were detected in Latin America.'
+cover_image: '/images/posts/img3.jpg'
+category: 'Politics'
+author: 'Sam Smith'
+author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
 ---
 
 <!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->

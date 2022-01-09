@@ -1,11 +1,12 @@
 ---
-title: 'Django Crash Course'
-date: 'May 5, 2021'
-excerpt: 'Django is a very powerful, high level Python framework for building web applications'
-cover_image: '/images/posts/img3.jpg'
-category: 'Python'
-author: 'Sam Smith'
-author_image: 'https://randomuser.me/api/portraits/men/12.jpg'
+title: 'From a bitcoin crash to regulatory crackdowns: Analysts give their top 2022 predictions for crypto'
+title2: 'Amazon among key tech firms to drop CES plans on Covid-19 concern'
+source1: 'Channel One Russia'
+source2: 'Agence France-Presse'
+date: 'December 30, 2021'
+excerpt: 'Days after the new COVID-19 variant omicron was identified in South Africa, ever more countries are moving to close their borders to stem its spread.'
+cover_image: '/images/posts/img2.jpg'
+category: 'Politics'
 ---
 
 <!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->

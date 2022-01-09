@@ -1,11 +1,12 @@
 ---
 title: 'Manage React State With XState'
-date: 'May 15, 2021'
+title2: 'Russian gas gift to Serbia comes with strings attached'
+source1: 'abc news'
+source2: 'euronews'
+date: 'December 15, 2021'
 excerpt: 'The most straightforward way of using XState with React is through local component state'
 cover_image: '/images/posts/img8.jpg'
-category: 'JavaScript'
-author: 'Sam Smith'
-author_image: 'https://randomuser.me/api/portraits/men/18.jpg'
+category: 'Technology'
 ---
 
 <!-- https://jaspervdj.be/lorem-markdownum/ -->

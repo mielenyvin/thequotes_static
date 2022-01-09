@@ -2,11 +2,13 @@ import Link from 'next/link'
 
 export default function CategoryLabel({ children }) {
   const colorKey = {
-    JavaScript: 'yellow',
-    CSS: 'blue',
-    Python: 'green',
-    PHP: 'purple',
-    Ruby: 'red',
+    Politics: 'yellow',
+    Technology: 'blue',
+    Sport: 'green',
+    Health: 'purple',
+    Business: 'red',
+    Sport: 'blue',
+    Culture: 'gray',
   }
 
   return (

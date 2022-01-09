@@ -1,11 +1,12 @@
 ---
-title: 'JavaScript Performance Tips'
-date: 'May 4, 2021'
-excerpt: 'We will look at 10 simple tips and tricks to increase the speed of your code when writing JS'
+title: 'Putin says Russia will offer good gas deal to Serbia - This is a serious statement'
+title2: 'Russian gas gift to Serbia comes with strings attached'
+source1: 'abc news'
+source2: 'euronews'
+date: 'December 31, 2021'
+excerpt: 'Russian President Vladimir Putin said Thursday that Moscow would continue providing natural gas to Serbia on terms favorable to its ally.'
 cover_image: '/images/posts/img1.jpg'
-category: 'JavaScript'
-author: 'John Doe'
-author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
+category: 'Business'
 ---
 
 <!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->

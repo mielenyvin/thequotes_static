@@ -1,11 +1,12 @@
 ---
-title: "What's New In PHP 8?"
-date: 'May 7, 2021'
-excerpt: 'In this article we will look at some of the new features offered in version 8 of PHP'
+title: "Scientists push back against idea that Omicron is more dangerous than other COVID variants"
+title2: 'This doctor explains why the omicron variant is so dangerous'
+source1: 'Fortune'
+source2: 'Deseret News'
+date: 'December 28, 2021'
+excerpt: 'When news of the Omicron variant emerged, countries were quick to shut borders, and global financial markets were rattled.'
 cover_image: '/images/posts/img4.jpg'
-category: 'PHP'
-author: 'Sara Johnson'
-author_image: 'https://randomuser.me/api/portraits/women/12.jpg'
+category: 'Health'
 ---
 
 <!-- Markdown generator - https://jaspervdj.be/lorem-markdownum/ -->
