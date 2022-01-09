@@ -20,6 +20,8 @@ divider:after {
 
 }
 
+#tohide{display:none}
+
 p {
   margin: 15px 0;
   line-height: 1.8;

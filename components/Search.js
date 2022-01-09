@@ -23,7 +23,7 @@ export default function Search() {
   return (
     <div className='relative h-20  bg-gray-300 p-4'>
       <div className='container mx-auto  flex items-center justify-center md:justify-end'>
-        <div className='relative text-gray-600 w-72'>
+        <div id="tohide" className='relative text-gray-600 w-72'>
           <form>
             <input
               type='search'
